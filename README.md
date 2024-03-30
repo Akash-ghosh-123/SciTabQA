@@ -12,4 +12,6 @@ tasks. In essence, we check the capability of the models to interpret scientific
 show that “SciTabQA” is an innovative dataset to study question-answering over scientific heterogeneous data. We
 benchmark three state-of-the-art Tabular QA models, and find that the best F1 score is only 0.462.
 
-The codes for TAPAS, TAPEX and OmniTab are present in the .ipynb files in the Code folder. 
+## Code and dataset usage
+
+The codes for TAPAS, TAPEX and OmniTab are present in the .ipynb files in the Code folder, they can be used to run evaluation.
