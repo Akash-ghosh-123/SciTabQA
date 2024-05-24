@@ -14,4 +14,4 @@ benchmark three state-of-the-art Tabular QA models, and find that the best F1 sc
 
 ## Code and dataset usage
 
-The codes for TAPAS, TAPEX and OmniTab are present in the .ipynb files in the Code folder, they can be used to run evaluation.
+The codes for TAPAS, TAPEX and OmniTab are present in the .ipynb files in the Code folder, they can be used to run evaluation. The Github is being updated.
